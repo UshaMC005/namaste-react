@@ -1,0 +1,13 @@
+What is the use of Emmet?
+Emmet (formerly Zen Coding) is a set of plug-ins for text editors that allow for high-speed
+coding and editing in HTML, XML, XSLT, and other structured code formats via content assist.
+
+What is Emmet?
+If you go by their site the definition is
+
+“Emmet is a plug in for many popular text editors which greatly improves HTML & CSS workflow:”
+
+And Emmet does fulfill what they promise, you can use short expressions to generate HTML markup, CSS.
+
+Read more with examples in the below link
+https://medium.com/@kartik2406/web-development-with-vs-code-part-1-emmet-6af80f0f630c
